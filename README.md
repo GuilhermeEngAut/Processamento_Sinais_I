@@ -10,9 +10,13 @@ Posteriormente, foram carregados dois arquivos adicionais: a resposta ao impulso
 Ao abrir e executar o arquivo contendo os códigos no Google Colab, espera-se o seguinte comportamento:
 
 1 - O ambiente solicitará o upload de arquivos de áudio nos momentos apropriados (como handel.wav, h_banheiro.wav e sinal_taca.wav).
+
 2 - Serão exibidos gráficos no domínio do tempo para todos os sinais gerados ou carregados, permitindo a visualização de suas características.
+
 3 - O sistema reproduzirá os sinais de áudio diretamente no navegador, possibilitando a análise auditiva dos resultados.
+
 4 - Nos experimentos com variação da frequência de amostragem, será perceptível a alteração na velocidade e na altura tonal dos sinais.
+
 5 - Na etapa de convolução, será gerado um novo sinal que incorpora as características do ambiente, apresentando reverberação perceptível tanto no gráfico quanto na reprodução sonora.
 
 De forma geral, espera-se que o usuário consiga correlacionar os resultados visuais (gráficos) com os auditivos (reprodução sonora), consolidando a compreensão dos conceitos teóricos abordados, como frequência, amostragem, resposta ao impulso e convolução.
