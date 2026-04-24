@@ -1,1 +1,9 @@
-# Processamento_Sinais_I
+# Processamento_Sinais_I - Prática 2
+
+Nesta prática, foram desenvolvidos e implementados, em ambiente computacional, diversos procedimentos relacionados ao processamento digital de sinais, com foco na análise espectral, amostragem e modelagem de sistemas. Inicialmente, foram gerados sinais senoidais e analisados seus espectros por meio da Transformada de Fourier, permitindo observar o comportamento de sinais de diferentes frequências e identificar o fenômeno de aliasing quando o critério de Nyquist não é respeitado.
+
+Em seguida, foram estudados sinais do tipo chirp, evidenciando a presença de uma faixa contínua de frequências no espectro. Posteriormente, foram utilizados sinais reais obtidos a partir de arquivos de áudio, os quais foram analisados tanto no domínio do tempo quanto da frequência. A partir desses sinais, foram aplicadas técnicas de subamostragem e sobreamostragem, tanto de forma direta quanto utilizando métodos de reamostragem, possibilitando a comparação entre os efeitos dessas abordagens, especialmente em relação à perda de qualidade e à introdução de distorções espectrais.
+
+Também foi analisado um sinal composto por múltiplas frequências, permitindo verificar sua representação espectral e os efeitos da amostragem no limite de Nyquist, bem como sua reconstrução aproximada. Por fim, foram realizadas convoluções entre sinais de áudio e a resposta ao impulso de um ambiente, simulando a propagação do som e evidenciando efeitos de reverberação.
+
+Ao executar o arquivo contendo os códigos, espera-se que sejam gerados gráficos dos sinais no domínio do tempo e de seus respectivos espectros para cada uma das etapas propostas. Além disso, serão disponibilizadas reproduções dos sinais de áudio processados, permitindo a comparação auditiva entre os diferentes métodos aplicados. Dessa forma, o usuário poderá observar na prática os efeitos de fenômenos como aliasing, subamostragem, sobreamostragem, interpolação e convolução, consolidando o entendimento dos conceitos teóricos por meio de sua aplicação computacional.
