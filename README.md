@@ -1,4 +1,4 @@
-# Processamento_Sinais_I - Prática 2
+# Processamento_Sinais_I - Prática 3
 
 Nesta prática foram desenvolvidas e analisadas implementações computacionais relacionadas à Transformada Z e ao processamento digital de sinais utilizando Python no Google Colab. Ao longo da atividade, foram estudados sistemas digitais descritos por funções de transferência no domínio Z, com foco na análise de resposta em frequência, diagramas de polos e zeros, filtragem de sinais de áudio e reconstrução de sinais por meio de filtros inversos. O objetivo principal foi compreender, de maneira prática, como diferentes sistemas alteram sinais e como essas alterações podem ser analisadas e parcialmente compensadas. 
 
