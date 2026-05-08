@@ -1,1 +1,7 @@
 # Processamento_Sinais_I - Prática 4
+
+Nesta prática foram desenvolvidos códigos em Python, executáveis no Google Colab, com o objetivo de estudar e comparar a Transformada Discreta de Fourier (DFT) e a Transformada Discreta de Cosseno (DCT) em sinais e imagens. Ao longo da atividade, foram analisados o comportamento espectral de sinais discretos, o efeito do aumento do número de amostras na resolução em frequência, o impacto do zero-padding na visualização do espectro e a utilização da DCT na compressão de áudio e imagens. Também foram realizadas reconstruções após a remoção de coeficientes, permitindo avaliar a perda de qualidade associada a diferentes níveis de compressão.
+
+Ao abrir o arquivo com os códigos, espera-se que o usuário execute cada célula em sequência no Google Colab. Em alguns momentos será solicitado o upload de arquivos, como o áudio e a imagem utilizados nas questões. Após a execução, serão gerados gráficos comparando espectros, representações transformadas e reconstruções dos sinais e da imagem. No caso do áudio, também é possível ouvir os sinais processados, o que permite perceber de forma auditiva os efeitos da compressão. Já na imagem, a comparação entre original e reconstruída mostra visualmente a influência do tamanho dos blocos e da quantidade de coeficientes preservados.
+
+De modo geral, o arquivo foi organizado para que o usuário possa observar, na prática, como a DFT e a DCT se comportam em diferentes situações e como essas transformadas podem ser aplicadas em análise, compressão e reconstrução de sinais.
